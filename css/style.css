@@ -1,0 +1,24 @@
+#my-navbar
+{
+  font-family: "Times New Roman", Times, Sans-serif;
+  font-size: 18px;
+}
+
+#brand
+{
+
+font-size: 20px;	
+}
+
+#myjumbotron
+{
+font-family: "Times New Roman", Times, Sans-serif;
+font-size: 18px;
+}
+
+footer {
+	background: #000000;
+	color: #eee;
+	font-size: 11px;
+	padding: 20px;
+}
